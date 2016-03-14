@@ -13,4 +13,4 @@ Then, translate your jsx file to plain JavaScript:
 
 
 ####Run the page
-* just open `index.html` in the browser
+* Just open `index.html` in the browser.
